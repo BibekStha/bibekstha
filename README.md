@@ -6,7 +6,7 @@ Currently working as a **Web Developer** in an Engineering Company based in **To
 
 I manage/update few web applications (created some myself), create internal utility web applications, manage cloud servers, all on my own.
 
-I'm currently learning more of NuxtJs/VueJs applying to some web applications.
+I'm currently learning more of NuxtJs/VueJs by applying to some web applications.
 
 I would love to collaborate on a project with MEVN tech stack but I'm open to hearing any proposal.
 
