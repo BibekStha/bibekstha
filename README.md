@@ -2,13 +2,11 @@
 ###### Toronto, Canada
 # Bibek Shrestha
 
-Currently working as a **Web Developer** in an Engineering Company based in **Toronto**.
+Currently working as a **Software Developer** in a FinTech Company based at **Vancouver**.
 
-I manage/update few web applications (created some myself), create internal utility web applications, manage cloud servers, all on my own.
+I currently help manage few ReactJS/NetSuite SuiteScipt based integration apps.
 
-I'm currently learning more of NuxtJs/VueJs by applying to some web applications.
-
-I would love to collaborate on a project with MEVN tech stack but I'm open to hearing any proposal.
+I like to follow Vue/Nuxt space and would love to collaborate on a project with MEVN tech stack but I'm open to hearing any proposal.
 
 You can reach me at [bibekmanshrestha@gmail.com](mailto:bibekmanshrestha@gmail.com).
 
